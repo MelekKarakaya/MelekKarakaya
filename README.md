@@ -27,7 +27,6 @@ Projelerimle ilgili sorularınız veya işbirliği tekliflerinizi bana iletmekte
 ## Connect with me:
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/sankimelekgibi?style=social)](https://twitter.com/sankimelekgibi)
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melek-karakaya-39417123a)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/melek_karakya/)
 
