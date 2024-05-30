@@ -1,8 +1,9 @@
 ## Hi there I'm Melek  👋
+[![Twitter Follow](https://img.shields.io/twitter/follow/sankimelekgibi?style=social)](https://twitter.com/BAYRAKTAR_BYRM)
 
-# MELEK KARAKAYA - Gömülü Yazılım Geliştirici
+## Gömülü Yazılım Geliştirici
 
-Merhaba! gömülü yazılım geliştirme konusunda tutkulu bir yazılım geliştiricisiyim. Bu repo, ARM mikrodenetleyicileri ve çevre birimlerini kullanarak geliştirdiğim projeleri içerir. Her geçen gün kendimi geliştiriyor ve projelerimi açık kaynak olarak paylaşıyorum.
+Merhaba! gömülü yazılım geliştirme konusunda tutkulu bir yazılım geliştiricisiyim. Bu hesap, gömülü yazılım alanında geliştirdiğim projeleri içerir. Her geçen gün kendimi geliştiriyor ve projelerimi açık kaynak olarak paylaşıyorum.
 
 ## Projelerim
 
@@ -19,6 +20,25 @@ Bu repo, aşağıdaki projeler ve daha fazlasını içermektedir:
 Projelerimle ilgili sorularınız veya işbirliği tekliflerinizi bana iletmekten çekinmeyin. Bana [GitHub profilim](https://github.com/MelekKarakaya) üzerinden ulaşabilirsiniz.
 
 
+# Hi 👋, I'm Bayram Bayraktar
+
+
+- 📫 How to reach me **bayraktarbyrm32@gmail.com**
+
+## Connect with me:
+
+[![x](https://img.shields.io/badge/--000000?style=flat&logo=x&logoColor=white)](https://sankimelekgibi)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bayraktar/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/bayraktar/)
+
+## Languages and Tools:
+
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
 
 
 <!--
