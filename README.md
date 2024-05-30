@@ -1,5 +1,5 @@
 ## Hi there I'm Melek  👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/sankimelekgibi?style=social)](https://twitter.com/BAYRAKTAR_BYRM)
+[![Twitter Follow](https://img.shields.io/twitter/follow/sankimelekgibi?style=social)](https://twitter.com/sankimelekgibi)
 
 ## Gömülü Yazılım Geliştirici
 
