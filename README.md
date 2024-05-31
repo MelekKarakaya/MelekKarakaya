@@ -18,11 +18,7 @@ Bu repo, aşağıdaki projeler ve daha fazlasını içermektedir:
 
 Projelerimle ilgili sorularınız veya işbirliği tekliflerinizi bana iletmekten çekinmeyin. Bana [GitHub profilim](https://github.com/MelekKarakaya) üzerinden ulaşabilirsiniz.
 
-
-# Hi 👋, I'm Bayram Bayraktar
-
-
-- 📫 How to reach me **bayraktarbyrm32@gmail.com**
+- 📫 How to reach me **melekkrky2002@gmail.com**
 
 ## Connect with me:
 
